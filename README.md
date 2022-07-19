@@ -27,7 +27,7 @@
 
 ### :woman_technologist: About Me :
 I am a junior Web Developer from Cambodia <img src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Cambodia.gif" width="25">
-- :telescope: I'm an undergraduate in ITE  <img src="https://ruppservice.ferupp.com/photos/shares/fe_logo.png" width="20px"/>  at Royal University of Phnom Penh (RUPP) <img src="http://www.rupp.edu.kh/logo/rupp_logo.png" width="20px"/> and talking Higher Diploma in Software Development at E2STEM Education Cambodia <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
+- :telescope: I'm an undergraduate in ITE  <img src="https://ruppservice.ferupp.com/photos/shares/fe_logo.png" width="20px"/>  at Royal University of Phnom Penh (RUPP) <img src="http://www.rupp.edu.kh/logo/rupp_logo.png" width="20px"/> and taking Higher Diploma in Software Development at E2STEM Education Cambodia <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
 
 - :seedling: Exploring New Coding Concept.
 
