@@ -33,10 +33,10 @@ I am a junior Web Developer from Cambodia <img src="https://mycarbys.com/wp-cont
 
 - :zap: In my free time, I solve common coding problems and read articles in Medium <img src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" width="20px"/>
 
-- :mailbox:How to reach me: virakvary@gmail.com
+- :mailbox: virakvary@gmail.com
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My familiar language :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -47,7 +47,6 @@ I am a junior Web Developer from Cambodia <img src="https://mycarbys.com/wp-cont
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-- :mailbox: virakvary@gmail.com
 ---
 
 ### :fire: My Stats :
