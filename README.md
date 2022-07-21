@@ -52,4 +52,6 @@ I am a junior Web Developer from Cambodia <img src="https://mycarbys.com/wp-cont
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kosalvireak&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosalvireak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![SaTy's github activity graph](https://activity-graph.herokuapp.com/graph?username=kosalvireak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
