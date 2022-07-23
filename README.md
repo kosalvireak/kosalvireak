@@ -13,8 +13,8 @@
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <h1>
-        Welcome to my GitHub!
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40px"/>
+        I love pushing the boundaries of my knowledge.
+        <img src="https://media.giphy.com/media/StdLcZ2tD0TjQ9nZTS/giphy.gif" width="40px"/>
     </h1>
     <h3>
     This is my first official <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="blank">website</a>.
