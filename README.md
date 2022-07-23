@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div id="badges">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
     <br>
     <br>
     <a href="mailto:virakvary@gmail.com" target="blank" align="center">
@@ -12,18 +12,13 @@
     <a href="https://www.linkedin.com/in/khoeun-kosalvireak-0619b2204/" target="blank" align="center">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <img src="I-Love-pushing-the-boundaries-7-23-2022 (1).gif"/>
-    <img src="https://media.giphy.com/media/StdLcZ2tD0TjQ9nZTS/giphy.gif" width="40px"/>
-    <h3>
-    This is my first official <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="blank">website</a>.
-    </h3>
-   
+    <img src="I-Love-pushing-the-boundaries-7-23-2022 (1).gif"/><br>
   </div>
 </div>
 
----
+<img  src="https://komarev.com/ghpvc/?username=kosalvireak&label=Profile%20views&color=0e75b6&style=flat" alt="kosalvireak" />
 
-<img  src="https://komarev.com/ghpvc/?username=kosalvireak&label=Profile%20views&color=0e75b6&style=flat" alt="Punvireakroth" />
+---
 
 ### :woman_technologist: About Me :
 I am a junior Web Developer from Cambodia <img src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Cambodia.gif" width="25">
@@ -34,6 +29,7 @@ I am a junior Web Developer from Cambodia <img src="https://mycarbys.com/wp-cont
 - :zap: In my free time, I solve common coding problems and read articles in Medium <img src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" width="20px"/>
 
 - :mailbox: virakvary@gmail.com
+- <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="blank">1st website</a>
 ---
 
 ### :hammer_and_wrench: My familiar language :
