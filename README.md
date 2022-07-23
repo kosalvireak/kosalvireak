@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/khoeun-kosalvireak-0619b2204/" target="blank" align="center">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <img src="I-LOVE-PUSHING-THE-BOUNDARIES-7-23-2022.gif"/>
+    <img src="I-Love-pushing-the-boundaries-7-23-2022 (1).gif"/>
     <img src="https://media.giphy.com/media/StdLcZ2tD0TjQ9nZTS/giphy.gif" width="40px"/>
     <h3>
     This is my first official <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="blank">website</a>.
