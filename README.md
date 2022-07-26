@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <div id="badges">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-    <br>
-    <br>
+  <img src="I-Love-pushing-the-boundaries-7-23-2022 (1).gif"/><br>
     <a href="mailto:virakvary@gmail.com" target="blank" align="center">
        <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
     </a>
@@ -11,12 +9,12 @@
     </a>
     <a href="https://www.linkedin.com/in/khoeun-kosalvireak-0619b2204/" target="blank" align="center">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <img src="I-Love-pushing-the-boundaries-7-23-2022 (1).gif"/><br>
+    </a><br>
+    <img  src="https://komarev.com/ghpvc/?username=kosalvireak&label=Profile%20views&color=0e75b6&style=flat" alt="kosalvireak" />
   </div>
 </div>
 
-<img  src="https://komarev.com/ghpvc/?username=kosalvireak&label=Profile%20views&color=0e75b6&style=flat" alt="kosalvireak" />
+
 
 ---
 
@@ -48,5 +46,5 @@ I am a junior Web Developer live in Cambodia <img src="https://mycarbys.com/wp-c
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kosalvireak&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosalvireak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![SaTy's github activity graph](https://activity-graph.herokuapp.com/graph?username=kosalvireak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kosalvireak's github activity graph](https://activity-graph.herokuapp.com/graph?username=kosalvireak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
