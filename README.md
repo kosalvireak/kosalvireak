@@ -19,14 +19,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a junior Web Developer live in Cambodia <img src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Cambodia.gif" width="25">
-- :telescope: I'm an undergraduate in ITE  <img src="https://scontent.fpnh10-1.fna.fbcdn.net/v/t1.18169-9/24774917_1959242864327414_2262831959900705879_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG5rqJrcMtSsSbPOh9oMqSRLoIKAYn0eEouggoBifR4Sp2qOCsOg4lFViPQW2q0HXYOVSCzLflrtp5FEPuQLpeN&_nc_ohc=x-HvSooFtYMAX-r6aH6&_nc_oc=AQnX6ZVqLvBye-ASSZWq5CX_lbCvahKhgTagET9aXH_Mxby52x5YvYXS5fdBoF6wAeg&_nc_ht=scontent.fpnh10-1.fna&oh=00_AT_okZN2LowM2F8AmOeZKvhlWizFxG4rmNeR7Sy3zB3ZiQ&oe=62FE41DD" width="20px"/>  at Royal University of Phnom Penh (RUPP) <img src="http://www.rupp.edu.kh/logo/rupp_logo.png" width="20px"/> and taking Higher Diploma in Software Development at E2STEM Education Cambodia <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
+I am a junior Web Developer in Cambodia <img src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Cambodia.gif" width="25">
+- :telescope: I'm an undergraduate in Information Technology Engineering <a href="http://www.fe.rupp.edu.kh/#/department/ited/undergraduate" target="blank">(ITE)</a> at Royal University of Phnom Penh <a href="http://www.rupp.edu.kh/" target="blank">(RUPP)</a>  and taking Higher Diploma in Software Development at <a href="https://e2stem.org.kh/" target="blank">E2STEM Education Cambodia</a> <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
 
 - :seedling: Exploring New Coding Concept.
 
-- :zap: In my free time, I solve common coding problems and read articles in Medium <img src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" width="20px"/>
+- :zap: In my free time, I drive to relax , enjoy music, work on code and read online articles.
 
-- :mailbox: virakvary@gmail.com
+- :email: My email: virakvary@gmail.com
 - <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="blank">1st website</a>
 ---
 
