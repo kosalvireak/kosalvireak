@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <div id="badges">
   <img src="I-Love-pushing-the-boundaries-7-23-2022 (1).gif"/><br>
-    <a href="mailto:virakvary@gmail.com" target="blank" align="center">
+    <a href="mailto:virakvary@gmail.com" target="_blank" align="center">
        <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
     </a>
-    <a href="https://www.facebook.com/kosalvireak43/" target="blank" align="center">
+    <a href="https://www.facebook.com/kosalvireak43/" target="_blank" align="center">
        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/khoeun-kosalvireak-0619b2204/" target="blank" align="center">
+    <a href="https://www.linkedin.com/in/khoeun-kosalvireak-0619b2204/" target="_blank" align="center">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a><br>
     <img  src="https://komarev.com/ghpvc/?username=kosalvireak&label=Profile%20views&color=0e75b6&style=flat" alt="kosalvireak" />
@@ -20,14 +20,14 @@
 
 ### :woman_technologist: About Me :
 I am a junior Web Developer in Cambodia <img src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Cambodia.gif" width="25">
-- :telescope: I'm an undergraduate in Information Technology Engineering <a href="http://www.fe.rupp.edu.kh/#/department/ited/undergraduate" target="blank">(ITE)</a> at Royal University of Phnom Penh <a href="http://www.rupp.edu.kh/" target="blank">(RUPP)</a>  and taking Higher Diploma in Software Development at <a href="https://e2stem.org.kh/" target="blank">E2STEM Education Cambodia</a> <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
+- :telescope: I'm an undergraduate in Information Technology Engineering <a href="http://www.fe.rupp.edu.kh/#/department/ited/undergraduate" target="_blank">(ITE)</a> at Royal University of Phnom Penh <a href="http://www.rupp.edu.kh/" target="_blank">(RUPP)</a>  and taking Higher Diploma in Software Development at <a href="https://e2stem.org.kh/" target="_blank">E2STEM Education Cambodia</a> <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
 
 - :seedling: Exploring New Coding Concept.
 
 - :zap: In my free time, I drive to relax , enjoy music, work on code and read online articles.
 
 - :email: My email: virakvary@gmail.com
-- <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="blank">1st website</a>
+- <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="_blank">1st website</a>
 ---
 
 ### :hammer_and_wrench: My familiar language :
