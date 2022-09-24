@@ -26,7 +26,7 @@ I am a junior Web Developer in Cambodia <img src="https://mycarbys.com/wp-conten
 
 - :zap: In my free time, I drive to relax , enjoy music, work on code and read online articles.
 
-- :email: My email: virakvary@gmail.com
+- :email: My email: kosalvireakkhoeun@gmail.com
 - <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="_blank">1st website</a>
 ---
 
