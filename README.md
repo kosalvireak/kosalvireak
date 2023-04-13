@@ -27,8 +27,8 @@ I am a junior Web Developer in Cambodia <img src="https://mycarbys.com/wp-conten
 - :zap: In my free time, I drive to relax , enjoy music, work on code and read online articles.
 
 - :email: My email: kosalvireakkhoeun@gmail.com
-- <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/First_Index.html" target="_blank">My Website V1</a>
-- <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="_blank">My Website V2</a>
+- <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/First_Index.html" target="_blank">My Website</a>
+- <a href="https://yelpcamp-arwf.onrender.com/" target="_blank">Yelp Camp Project</a>
 - <a href="https://postimg.cc/ThYzQY5b" target="_blank"> My CV </a>
 ---
 
