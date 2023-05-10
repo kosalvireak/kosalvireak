@@ -29,7 +29,7 @@ I am a junior Web Developer in Cambodia <img src="https://mycarbys.com/wp-conten
 - :email: My email: kosalvireakkhoeun@gmail.com
 - <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/First_Index.html" target="_blank">My Website</a>
 - <a href="https://yelpcamp-arwf.onrender.com/" target="_blank">Yelp Camp Project</a>
-- <a href="[https://postimg.cc/ThYzQY5b](https://i.postimg.cc/zBXQmX7N/Kosalvireak-Khoeun-s-Resume-1.png)" target="_blank"> My CV </a>
+- <a href="https://postimg.cc/ThYzQY5b](https://i.postimg.cc/zBXQmX7N/Kosalvireak-Khoeun-s-Resume-1.png" target="_blank"> My CV </a>
 ---
 
 ### :hammer_and_wrench: My familiar language :
