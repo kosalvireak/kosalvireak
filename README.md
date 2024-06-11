@@ -20,14 +20,14 @@
 
 ### :woman_technologist: About Me :
 I am a junior Web Developer in Cambodia <img src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Cambodia.gif" width="25">
-- :telescope: I'm an undergraduate in Information Technology Engineering <a href="http://www.fe.rupp.edu.kh/#/department/ited/undergraduate" target="_blank">(ITE)</a> at Royal University of Phnom Penh <a href="http://www.rupp.edu.kh/" target="_blank">(RUPP)</a>  and taking Higher Diploma in Software Development at <a href="https://e2stem.org.kh/" target="_blank">E2STEM Education Cambodia</a> <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
+- :telescope: I'm an undergraduate in Information Technology Engineering <a href="http://www.fe.rupp.edu.kh/#/department/ited/undergraduate" target="_blank">(ITE)</a> at Royal University of Phnom Penh <a href="http://www.rupp.edu.kh/" target="_blank">(RUPP)</a>  and completed Higher Diploma in Software Development at <a href="https://e2stem.org.kh/" target="_blank">E2STEM Education Cambodia</a> <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
 
 - :seedling: Exploring New Coding Concept.
 
-- :zap: In my free time, I drive to relax , enjoy music, work on code and read online articles.
+- :zap: In my free time, I drive to relax, enjoy music, work on code and read online articles.
 
 - :email: My email: kosalvireakkhoeun@gmail.com
-- <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="_blank">My Portfolio</a>
+[- <a href="https://kosalvireak.github.io/Kosalvireak-Khoeun/" target="_blank">My Portfolio</a>]
 - <a href="https://yelpcamp-arwf.onrender.com/" target="_blank">Yelp Camp Project</a>
 - <a href="https://postimg.cc/VrmFVHCP" target="_blank"> My CV </a>
 ---
@@ -38,9 +38,6 @@ I am a junior Web Developer in Cambodia <img src="https://mycarbys.com/wp-conten
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
