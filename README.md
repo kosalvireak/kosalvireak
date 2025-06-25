@@ -19,17 +19,16 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a junior Web Developer in Cambodia <img src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Cambodia.gif" width="25">
-- :telescope: I'm an undergraduate in Information Technology Engineering <a href="http://www.fe.rupp.edu.kh/#/department/ited/undergraduate" target="_blank">(ITE)</a> at Royal University of Phnom Penh <a href="http://www.rupp.edu.kh/" target="_blank">(RUPP)</a>  and completed Higher Diploma in Software Development at <a href="https://e2stem.org.kh/" target="_blank">E2STEM Education Cambodia</a> <img src="https://i.ibb.co/JQwTBHV/download-removebg-preview.png" width="45px"/>.
+Junior Application Developer <a href="https://www.khalibre.com/" target="_blank">@Khalibre</a> (Phnom Penh, Cambodia) <img src="https://mycarbys.com/wp-content/uploads/2021/02/Flag_of_Cambodia.gif" width="25">
+- :telescope: Bachelor degreee in Information Technology Engineering (ITE) from Royal University of Phnom Penh (RUPP), 2025
+- :telescope: Completed Higher Diploma in Software Development from E2STEM Education Cambodia, 2023
+- :seedling: Passions : Exploring new coding concept, Continuous learning.
+- :zap: Interests : Personal coding projects, driving, play music instrument (guitar).
 
-- :seedling: Exploring New Coding Concept.
-
-- :zap: In my free time, I drive to relax, enjoy music, work on code and read online articles.
-
-- :email: My email: kosalvireakkhoeun@gmail.com
+- :email: Personal : kosalvireakkhoeun@gmail.com
 - <a href="https://kosalvireak-khoeun.web.app/" target="_blank">My Portfolio</a>
-- <a href="https://profile-summary-for-github.com/user/kosalvireak" target="_blank">My Profile Summary</a>
-- <a href="https://postimg.cc/bS9QZw5v" target="_blank"> My CV </a>
+- <a href="https://profile-summary-for-github.com/user/kosalvireak" target="_blank">Github Profile Summary</a>
+- <a href="https://postimg.cc/bS9QZw5v" target="_blank">My CV </a>
 ---
 
 ### :hammer_and_wrench: My familiar language :
